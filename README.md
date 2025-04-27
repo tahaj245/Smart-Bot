@@ -43,7 +43,9 @@ python app.py
 </p>  
 
 
-
+# Horizontal Swiper
+For Starting Screen
+# npm install
 
 
 
