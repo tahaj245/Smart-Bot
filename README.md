@@ -42,6 +42,7 @@ python app.py
     <a href="https://github.com/roshancharlie" target="_blank"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="25px"></a>
 </p>  
 
-
+# Project Video
+https://drive.google.com/drive/folders/1ocqSvczztU_ziCzpR41lbaY9cjeS5oBb?usp=sharing
 
 
